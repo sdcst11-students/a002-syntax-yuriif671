@@ -10,6 +10,7 @@ t = turtle.Turtle()
 t.penup()
 t.goto(-200, 100)
 
+#move
 t.pendown()
 t.rt(90)
 t.fd(100)
